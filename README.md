@@ -75,4 +75,3 @@ AI 기반 통합 보안 분석 플랫폼
 ## Contact
 
 - Email: yuwo1234@gmail.com
-- GitHub: https://github.com/sairakia
