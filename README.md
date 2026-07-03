@@ -72,14 +72,6 @@ AI 기반 통합 보안 분석 플랫폼
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairakia&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sairakia&layout=compact)
-
----
-
 ## Contact
 
 - GitHub: https://github.com/sairakia
