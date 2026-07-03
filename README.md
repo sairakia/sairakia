@@ -74,4 +74,4 @@ AI 기반 통합 보안 분석 플랫폼
 
 ## Contact
 
-- Email: yuwo1234@gmail.com
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuwo1234@gmail.com)
